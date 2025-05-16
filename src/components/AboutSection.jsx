@@ -11,7 +11,7 @@ export const AboutSection = () => {
         
         <div className="flex justify-center">
   <img
-    src="/banner.png"
+    src="/perfil.png"
     alt="Banner Icon"
     className="w-25 h-25 rounded-full object-cover"
   />
