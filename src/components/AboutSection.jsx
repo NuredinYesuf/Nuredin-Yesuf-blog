@@ -1,5 +1,7 @@
 import { Briefcase, Code, User } from "lucide-react";
 
+
+
 export const AboutSection = () => {
   return (
     <section id="about" className="py-24 px-4 relative">
@@ -12,7 +14,7 @@ export const AboutSection = () => {
         <div className="flex justify-center">
   <img
     src="/perfil.png"
-    alt="Banner Icon"
+    alt="icon"
     className="w-25 h-25 rounded-full object-cover"
   />
 </div>
