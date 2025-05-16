@@ -97,14 +97,16 @@ export const ProjectsSection = () => {
         </div>
 
         <div className="text-center mt-12">
-          <a
-            className="cosmic-button w-fit flex items-center mx-auto gap-2"
-            target="_blank"
-            href="https://github.com/machadop1407"
-          >
-            Check My Github <ArrowRight size={16} />
-          </a>
-        </div>
+  <a
+    className="cosmic-button w-fit flex items-center mx-auto gap-2"
+    target="_blank"
+    rel="noopener noreferrer"
+    href="https://github.com/NuredinYesuf"
+  >
+    Check My Github <ArrowRight size={16} />
+  </a>
+</div>
+
       </div>
     </section>
   );

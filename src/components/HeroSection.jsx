@@ -18,6 +18,7 @@ export const HeroSection = () => {
               {" "}
               Yesuf
             </span>
+            <h2>software enginner</h2>
           </h1>
 
           <p className="text-lg md:text-xl text-muted-foreground max-2-2xl mx-auto opacity-0 animate-fade-in-delay-3">
